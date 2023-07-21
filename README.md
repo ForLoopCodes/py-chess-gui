@@ -8,7 +8,7 @@ install libraries:
 pip install python-chess
 ```
 
-Remember to changet the path to engine (where you unzipped it - path to .exe) and the next path to the location where you saved the images (aka place in this directory where the .py is saved)
+Remember to change the path to engine (where you unzipped it - path to .exe) and the next path to the location where you saved the images (aka place in this directory where the .py is saved)
 ![image](https://github.com/ForLoopCodes/py-chess-gui/assets/89027512/2cde2c81-b702-49bb-9588-fa205c5a6828)
 
 enjoy chess gui!
